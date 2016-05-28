@@ -1,7 +1,6 @@
 {
   "/index.html": {
     "main": [],
-    "async": [],
     "js": [
       {
         "dest": "/static/js/b421893239552ab5531042432f4f2bcb.js",
